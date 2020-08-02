@@ -1,13 +1,21 @@
-# Teste Coinsure 
-## Teste para vaga frontend web
+# Teste Coinsure - Frontend Web Developer
 
-* O objetivo do teste é avaliar suas habilidades como frontend
-* utilizar HTML, CSS e Javascript
+* avaliar suas habilidades como frontend, no quesito de replicar layouts
+* Utilizar a biblioteca React para construção da landing page
 
 ## Diferenciais
 
-* Utilizar o framework react
 * Fazer uso de componentização
 * Responsividade
 
-## O fator Tempo x Qualidade pode ser um fator decisivo na sua entrega.
+## Outras observações
+
+* Tempo de entrega: 2 dias a partir da entrevista
+* você podera entregar como .zip ou subir no github e enviar o link do repositório para os seguintes emails: rodrigo.tanaka@genoaseguros.com.br ou rodrigo.pedroni@genoaseguros.com.br
+* As imagens se encontram na pasta img e os textos da lp estão no arquivo .txt
+
+## Boa sorte candidato, a imagem da Lp está no repositorio mas deixarei aqui para possíveis consultas.
+
+<img src="LP.png">
+
+
